@@ -4,7 +4,7 @@
 - 💞️ Proficient in Frontend and Backend Technologies.
 - 📫 Exploring new technologies and contributing to open-source projects.
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I'm a Chef
+- ⚡ Fun fact: I'm fairly good at sketching.
 
 <!---
 keerthikamk/keerthikamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
